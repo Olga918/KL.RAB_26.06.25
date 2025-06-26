@@ -207,8 +207,6 @@ namespace KL.RAB_26._06._25
             Console.WriteLine("\nNegative numbers (lambda):");
             Console.WriteLine(string.Join(", ", lambdaNegatives));
         }
-
-
-
-
     }
+}
+
